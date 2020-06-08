@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtMoS7.exe" size="42976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtMoS7.exe" size="43488">
       <assemblyIdentity name="AtMoS7" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UQndToDFggvUB92a7vrdZ9pooXqj1C5DnIUdqMnZD/s=</dsig:DigestValue>
+        <dsig:DigestValue>iD/TZTeeCwmS8t6eSmEKzh4IAiw6j6xokPUAM28uZoc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
